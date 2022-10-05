@@ -9,7 +9,7 @@
 <body>
 <?php
 echo '<h1>';
-echo "<div style='color: #0FCB5F;'> Hola soy php </div>";
+echo "<div style='color: #0FCB5F;'> Hola a todos </div>";
 echo "</h1>"; 
 ?>
 </body>
