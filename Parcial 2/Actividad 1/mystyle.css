@@ -1,0 +1,28 @@
+*{
+	background-color: #F0CC90;
+}
+h1{
+	background-color: var(--main-fondo);
+	margin: 1em auto;
+	width: 70%;
+	text-align: center;
+	border-radius: 10px;
+	color: #0FCB5F;
+}
+H2{
+	text-decoration: overline;
+	color: #45928F;
+	background-color: #E7FAEF;
+	width: 60%;
+	text-align: center;
+	border-radius: 25px;
+	text-transform: uppercase;
+}
+
+p{
+	text-shadow: 5px 5px 5px #CEDF28;
+	text-align: CENTER;
+	font-weight: bold;
+	font-size: 70px;
+	font-family: 'Amatic SC', cursive;
+}
