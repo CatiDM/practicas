@@ -1,0 +1,26 @@
+body 
+{
+	background: #F3D2C0;
+}
+  table {
+width: 70%;
+border: 2px solid #000;
+
+}
+th,td {
+
+	width: 5%;
+	text-align: left;
+   border: 1px solid #000;
+   background: #C0EEF3;
+   font-weight: bold;
+}
+.text
+{
+	color: #FE35A2;
+    font-family: Fuzzy Bubbles, cursive;
+    font-size: 360%;
+    text-align: center;
+    background: #E0FAAC;
+    border-radius: 15%;
+}
